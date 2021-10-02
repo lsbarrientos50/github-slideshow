@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-lerning
+lerning?
 Use the left arrow to go back!
